@@ -38,9 +38,7 @@ Our solution fuses several paradigms in an adaptive, tier-specific pipeline.
 
 ### High‑level view
 
-*(Insert architecture diagram – e.g. `docs/img/architecture.png`)*
-
-![System architecture](docs/img/architecture.png)
+![System architecture](https://github.com/user-attachments/assets/3f3d2cc5-8907-4b98-80f9-5dc33bedc4c1)
 
 ### Modular hybrid stack
 
@@ -85,7 +83,8 @@ Our solution fuses several paradigms in an adaptive, tier-specific pipeline.
 
 ### Visual summary
 
-![Tier‑specific Recall](docs/img/tier_recall.png)
+![Tier-Specific Recall](https://github.com/user-attachments/assets/1a1efbe3-ee0d-4a59-be5a-b79217d2b123)
+
 
 ---
 
