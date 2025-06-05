@@ -1,4 +1,4 @@
-Hybrid Recommender System - Group 24
+Hybrid Recommender System
 A tier-specific hybrid recommender system for generating top-10 personalized item recommendations.
 Overview
 This project implements a modular hybrid recommender system that adapts its strategy based on user interaction history. The system integrates multiple recommendation paradigms including sequential pattern mining, collaborative filtering, content-based retrieval, and bought-together pattern extraction.
@@ -73,10 +73,8 @@ scipy>=1.7.0
 sentence-transformers>=2.0.0
 Team
 
-Joren van den Berg
-Sepehr Moghiseh
 Monish Shah
-SeyedehSheida Nehzati
+
 
 License
 This project is for academic purposes as part of the Recommender Systems course.
