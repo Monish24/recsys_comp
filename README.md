@@ -1,6 +1,6 @@
-# 1st Place – Kaggle Recommender-Systems Competition (Group 24)
+Kaggle Recommender-Systems Competition
 
-**Final score:** Recall\@10 = 0.0426 | **Rank:** 1st place
+**Final score:** Recall\@10 = 0.0448
 
 A tier-specific hybrid recommender that topped a sparse-data challenge with
 330 K users, 65 K items and just 350 K interactions (94 % cold-start).
